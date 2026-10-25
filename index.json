@@ -7,6 +7,13 @@
       "pub_sig": "{baseurl}/xzc/xzc.pub.sig"
     }
   },
+  "domains": {
+    "qincnd": {
+      "index": "https://raw.githubusercontent.com/qincnd/hpm-repo/main/index.json",
+      "official_pub": "https://raw.githubusercontent.com/qincnd/hpm-repo/main/official.pub",
+      "official_pub_sig": "https://raw.githubusercontent.com/qincnd/hpm-repo/main/official.pub.sig"
+    }
+  },
   "packages": {
     "ch552_usb_cdc": {
       "versions": {
